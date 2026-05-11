@@ -1,0 +1,201 @@
+StudentID,Age,Gender,Subject,HoursStudied,StudyMethod,AttendanceRate,PreviousGrade,FinalExamScore,Passed
+Student_0001,18.0,Male,Science,18.6,Tutoring,60.6,,82.0,Yes
+Student_0002,17.0,Male,English,4.1,Solo Study,,,66.0,Yes
+Student_0003,18.0,Female,History,,Solo Study,91.6,94.0,100.0,
+Student_0004,18.0,Female,Math,2.9,,93.5,71.0,64.0,
+Student_0005,18.0,Female,English,1.6,Tutoring,91.3,,61.0,
+Student_0006,16.0,Female,History,,Online Courses,63.4,89.0,59.0,No
+Student_0007,15.0,Male,Math,6.1,Online Courses,88.5,90.0,,
+Student_0008,17.0,Female,English,3.0,Group Study,97.7,78.0,63.0,Yes
+Student_0009,16.0,Male,Science,2.7,Online Courses,,85.0,63.0,
+Student_0010,14.0,,Math,7.7,Group Study,83.9,100.0,77.0,
+Student_0011,17.0,Male,,8.9,Group Study,,,86.0,Yes
+Student_0012,15.0,Male,,4.2,,72.0,81.0,55.0,No
+Student_0013,15.0,Female,English,9.0,Online Courses,91.3,73.0,69.0,Yes
+Student_0014,,Female,Art,12.7,Online Courses,64.3,69.0,62.0,Yes
+Student_0015,17.0,Female,,8.2,Tutoring,77.6,77.0,76.0,Yes
+Student_0016,18.0,Male,English,7.1,Solo Study,79.2,61.0,71.0,Yes
+Student_0017,16.0,Female,History,19.4,Solo Study,73.0,67.0,93.0,Yes
+Student_0018,17.0,Female,Math,18.7,Solo Study,83.7,84.0,89.0,
+Student_0019,,Male,History,18.9,,77.5,68.0,94.0,
+Student_0020,14.0,Female,History,3.6,Tutoring,69.7,92.0,57.0,
+Student_0021,17.0,Female,Math,9.5,Online Courses,83.3,84.0,77.0,Yes
+Student_0022,17.0,,English,,,64.4,65.0,77.0,Yes
+Student_0023,16.0,,Art,1.8,Online Courses,98.7,71.0,70.0,Yes
+Student_0024,17.0,Male,,2.9,Solo Study,80.4,,,
+Student_0025,18.0,Male,History,8.1,Online Courses,90.9,87.0,82.0,Yes
+Student_0026,15.0,Female,Math,,,76.6,55.0,57.0,No
+Student_0027,15.0,Female,English,,Solo Study,80.8,72.0,67.0,
+Student_0028,,Female,,2.3,,92.4,57.0,45.0,
+Student_0029,16.0,Male,Science,18.7,Solo Study,80.6,85.0,88.0,Yes
+Student_0030,18.0,Female,History,5.4,Online Courses,,61.0,63.0,
+Student_0031,17.0,Female,Math,15.0,Solo Study,78.0,,81.0,
+Student_0032,,Male,English,15.3,Group Study,83.1,84.0,82.0,Yes
+Student_0033,16.0,Male,History,,Online Courses,81.1,90.0,62.0,Yes
+Student_0034,17.0,Female,Art,3.2,Tutoring,93.8,89.0,63.0,Yes
+Student_0035,16.0,Male,Science,7.0,Solo Study,,,,
+Student_0036,15.0,Female,History,12.3,Online Courses,76.9,81.0,,Yes
+Student_0037,15.0,Male,,6.5,Solo Study,72.6,78.0,68.0,Yes
+Student_0038,,Male,History,3.6,Online Courses,98.6,82.0,72.0,Yes
+Student_0039,17.0,,History,14.5,Online Courses,79.5,55.0,76.0,Yes
+Student_0040,15.0,Female,Math,6.2,Tutoring,66.7,79.0,65.0,Yes
+Student_0041,17.0,,,3.2,Tutoring,81.7,,60.0,Yes
+Student_0042,17.0,Male,History,2.9,,71.9,,47.0,No
+Student_0043,16.0,Male,History,17.4,Group Study,91.0,65.0,82.0,
+Student_0044,,Female,Art,13.0,Solo Study,84.6,100.0,85.0,Yes
+Student_0045,15.0,Male,Art,7.7,Tutoring,83.9,60.0,61.0,Yes
+Student_0046,16.0,,Art,6.1,,,98.0,,Yes
+Student_0047,,Female,Science,14.3,Solo Study,70.0,95.0,84.0,Yes
+Student_0048,15.0,Female,,,Tutoring,85.1,74.0,61.0,
+Student_0049,,Female,Art,15.2,Tutoring,78.2,81.0,82.0,Yes
+Student_0050,14.0,,History,13.1,Tutoring,,100.0,95.0,Yes
+Student_0051,15.0,Female,Science,10.4,Tutoring,93.1,71.0,,Yes
+Student_0052,15.0,Female,English,18.0,,61.8,90.0,,
+Student_0053,17.0,Male,Math,18.7,Solo Study,77.7,50.0,90.0,
+Student_0054,17.0,Male,Science,,Tutoring,,67.0,74.0,Yes
+Student_0055,16.0,Female,,8.1,Solo Study,,,66.0,Yes
+Student_0056,15.0,Female,Math,14.4,Group Study,68.5,54.0,63.0,Yes
+Student_0057,15.0,Female,Math,1.2,Tutoring,92.7,,,Yes
+Student_0058,17.0,Male,Science,,,,73.0,72.0,
+Student_0059,15.0,,Science,13.2,Solo Study,62.7,,69.0,Yes
+Student_0060,,,English,14.7,Solo Study,96.8,89.0,97.0,Yes
+Student_0061,15.0,Male,Math,3.7,Group Study,83.6,74.0,59.0,No
+Student_0062,17.0,Female,Science,5.7,Group Study,69.9,88.0,69.0,Yes
+Student_0063,18.0,Female,Math,17.1,Tutoring,68.2,88.0,90.0,Yes
+Student_0064,17.0,Female,Math,15.9,,79.8,57.0,73.0,Yes
+Student_0065,18.0,,Art,17.9,Group Study,99.5,70.0,86.0,Yes
+Student_0066,18.0,Female,English,11.4,Solo Study,90.5,99.0,,
+Student_0067,18.0,,,6.0,Group Study,96.9,,79.0,
+Student_0068,16.0,,,,Group Study,,84.0,90.0,Yes
+Student_0069,16.0,Male,English,2.5,Solo Study,99.0,59.0,59.0,No
+Student_0070,17.0,Male,English,14.3,Solo Study,62.3,55.0,77.0,Yes
+Student_0071,14.0,Female,Art,12.6,Tutoring,,,92.0,Yes
+Student_0072,14.0,Male,,14.3,Solo Study,79.9,72.0,81.0,
+Student_0073,16.0,Male,English,3.4,Tutoring,89.3,57.0,,
+Student_0074,,Female,History,,,70.5,,70.0,Yes
+Student_0075,17.0,Female,Art,7.8,Online Courses,94.4,60.0,65.0,Yes
+Student_0076,16.0,Male,Art,,Group Study,,82.0,,Yes
+Student_0077,14.0,Male,Math,10.0,Online Courses,,61.0,82.0,Yes
+Student_0078,14.0,Female,Science,7.1,Online Courses,96.6,70.0,66.0,Yes
+Student_0079,14.0,Female,Math,10.5,Group Study,,83.0,83.0,Yes
+Student_0080,17.0,Male,History,17.5,Tutoring,73.1,85.0,90.0,Yes
+Student_0081,16.0,Male,English,,Tutoring,89.6,,75.0,Yes
+Student_0082,18.0,Female,Science,14.9,Solo Study,66.0,76.0,70.0,Yes
+Student_0083,,Female,Math,19.1,Group Study,90.4,74.0,100.0,
+Student_0084,16.0,Male,Science,11.1,Solo Study,76.8,53.0,75.0,Yes
+Student_0085,15.0,Female,Math,1.8,,,83.0,63.0,Yes
+Student_0086,16.0,Female,Math,12.0,Solo Study,85.5,75.0,71.0,Yes
+Student_0087,18.0,Male,History,13.6,Solo Study,69.5,66.0,81.0,
+Student_0088,17.0,Female,English,9.6,Solo Study,63.0,62.0,55.0,No
+Student_0089,18.0,Male,Science,3.0,,78.6,76.0,52.0,No
+Student_0090,16.0,,History,,Tutoring,94.1,55.0,57.0,No
+Student_0091,16.0,Male,Science,16.9,Tutoring,,,86.0,
+Student_0092,,,Art,1.9,Tutoring,70.4,61.0,39.0,
+Student_0093,17.0,,Art,,Solo Study,63.8,56.0,78.0,Yes
+Student_0094,15.0,,Math,2.2,Solo Study,65.2,,51.0,
+Student_0095,,,Math,1.4,Group Study,67.9,91.0,58.0,No
+Student_0096,15.0,Male,English,3.3,Online Courses,62.0,86.0,58.0,No
+Student_0097,17.0,Female,Math,,Online Courses,66.9,,,Yes
+Student_0098,16.0,,,,Group Study,84.6,,91.0,Yes
+Student_0099,16.0,Female,,17.8,,62.4,67.0,78.0,Yes
+Student_0100,17.0,Male,Art,,Group Study,99.6,100.0,,Yes
+Student_0101,17.0,Female,English,18.3,Tutoring,75.5,61.0,74.0,Yes
+Student_0102,18.0,Male,Math,18.0,Tutoring,62.3,80.0,87.0,Yes
+Student_0103,18.0,Male,Science,2.9,Solo Study,70.7,100.0,75.0,
+Student_0104,14.0,,Art,,Online Courses,74.2,61.0,74.0,Yes
+Student_0105,18.0,Female,English,18.4,,,72.0,100.0,
+Student_0106,18.0,Male,Art,19.0,Online Courses,81.7,61.0,86.0,
+Student_0107,14.0,Male,Science,12.4,Group Study,,50.0,65.0,Yes
+Student_0108,18.0,Male,Science,7.5,Solo Study,96.8,70.0,63.0,Yes
+Student_0109,15.0,Male,,17.1,Tutoring,,73.0,97.0,Yes
+Student_0110,17.0,Male,English,,,99.0,96.0,90.0,Yes
+Student_0111,17.0,Female,Science,14.4,Tutoring,,87.0,90.0,Yes
+Student_0112,17.0,Female,English,3.4,Group Study,98.0,86.0,68.0,Yes
+Student_0113,,Male,,12.4,Solo Study,85.6,56.0,81.0,Yes
+Student_0114,15.0,Female,Math,5.5,Tutoring,66.7,55.0,59.0,No
+Student_0115,16.0,Female,,,Solo Study,,72.0,,Yes
+Student_0116,14.0,,Math,8.3,Online Courses,98.8,76.0,76.0,Yes
+Student_0117,,,Art,8.1,Online Courses,91.5,,81.0,Yes
+Student_0118,15.0,Male,History,2.4,Group Study,71.8,70.0,49.0,No
+Student_0119,14.0,Male,English,4.2,Online Courses,66.4,54.0,50.0,
+Student_0120,14.0,Female,,19.7,Online Courses,88.2,77.0,100.0,Yes
+Student_0121,15.0,Female,Science,2.0,Tutoring,68.2,,47.0,No
+Student_0122,18.0,Female,,6.7,Group Study,62.0,86.0,67.0,
+Student_0123,17.0,Male,Math,,Online Courses,63.5,92.0,,Yes
+Student_0124,17.0,,,1.5,,85.5,,,No
+Student_0125,14.0,Female,History,9.9,Tutoring,63.6,84.0,,
+Student_0126,16.0,Female,English,4.5,Group Study,70.5,79.0,57.0,
+Student_0127,16.0,Male,Science,15.3,Group Study,63.4,72.0,84.0,Yes
+Student_0128,17.0,Male,Art,2.2,Online Courses,92.7,76.0,71.0,Yes
+Student_0129,17.0,Male,,6.7,Online Courses,96.1,95.0,70.0,
+Student_0130,18.0,Male,Math,19.0,Online Courses,66.9,,91.0,Yes
+Student_0131,15.0,Male,Math,9.0,,68.1,,67.0,Yes
+Student_0132,18.0,Female,English,18.3,,63.5,85.0,87.0,
+Student_0133,,Female,Art,,,,,84.0,Yes
+Student_0134,17.0,Male,History,3.8,Group Study,97.0,,76.0,Yes
+Student_0135,16.0,Female,History,,Online Courses,82.9,80.0,59.0,No
+Student_0136,16.0,Female,Science,12.7,Online Courses,61.6,71.0,76.0,Yes
+Student_0137,,Female,English,,Group Study,73.5,100.0,94.0,
+Student_0138,,Female,Math,,Solo Study,65.4,,96.0,
+Student_0139,16.0,Female,History,12.5,,67.5,63.0,,Yes
+Student_0140,17.0,Female,Art,17.5,,80.6,60.0,74.0,
+Student_0141,18.0,Female,Science,15.8,Group Study,66.9,62.0,83.0,Yes
+Student_0142,,Male,History,2.0,Tutoring,88.2,67.0,54.0,No
+Student_0143,17.0,,,13.9,Solo Study,74.9,88.0,,Yes
+Student_0144,17.0,Female,English,4.1,Tutoring,90.0,94.0,,
+Student_0145,14.0,Female,,4.1,Solo Study,,91.0,67.0,Yes
+Student_0146,15.0,Female,,10.8,Group Study,79.0,58.0,71.0,Yes
+Student_0147,18.0,Male,,5.8,Tutoring,88.5,95.0,79.0,Yes
+Student_0148,,Female,English,,,78.7,93.0,80.0,
+Student_0149,18.0,Female,Art,2.9,Tutoring,82.5,,67.0,
+Student_0150,16.0,Male,,2.2,Tutoring,,,52.0,No
+Student_0151,,Male,Science,10.8,Solo Study,96.0,88.0,83.0,Yes
+Student_0152,16.0,Male,,13.5,Tutoring,70.4,76.0,76.0,Yes
+Student_0153,14.0,Male,English,14.8,Solo Study,87.5,90.0,97.0,Yes
+Student_0154,,Female,,17.0,Solo Study,71.8,80.0,80.0,
+Student_0155,,Male,English,13.4,Solo Study,74.2,97.0,95.0,
+Student_0156,,,English,6.0,Tutoring,78.6,57.0,57.0,No
+Student_0157,18.0,Male,History,17.9,,94.7,74.0,94.0,Yes
+Student_0158,,Male,,3.6,,73.7,86.0,71.0,
+Student_0159,17.0,,English,17.4,Solo Study,91.2,81.0,91.0,Yes
+Student_0160,15.0,Female,Math,1.1,Tutoring,68.4,99.0,55.0,
+Student_0161,15.0,,Math,3.5,Online Courses,85.3,75.0,61.0,Yes
+Student_0162,,Female,Math,1.7,Solo Study,89.2,,58.0,No
+Student_0163,,Male,,13.9,,69.1,72.0,73.0,Yes
+Student_0164,14.0,Female,Art,12.2,Solo Study,62.6,52.0,,No
+Student_0165,16.0,,Art,,Tutoring,77.3,93.0,94.0,Yes
+Student_0166,16.0,,English,15.3,Solo Study,97.9,,80.0,
+Student_0167,15.0,Male,Science,,Solo Study,64.9,95.0,90.0,Yes
+Student_0168,,Female,,,Group Study,83.8,53.0,80.0,Yes
+Student_0169,14.0,,,8.9,Online Courses,64.9,66.0,63.0,Yes
+Student_0170,,Male,Math,,Group Study,86.5,67.0,68.0,Yes
+Student_0171,15.0,Female,Math,10.7,Group Study,71.3,100.0,74.0,Yes
+Student_0172,15.0,,English,,Solo Study,74.3,76.0,82.0,Yes
+Student_0173,,,Science,14.1,Online Courses,,50.0,60.0,
+Student_0174,14.0,Male,Art,,Solo Study,98.0,99.0,96.0,Yes
+Student_0175,14.0,Female,Science,9.7,Tutoring,70.6,,,No
+Student_0176,15.0,Male,English,7.8,,77.0,,53.0,No
+Student_0177,14.0,Male,Science,13.6,,,78.0,89.0,Yes
+Student_0178,,Male,,16.5,Solo Study,,75.0,,Yes
+Student_0179,16.0,Female,History,16.2,Solo Study,64.5,94.0,93.0,
+Student_0180,15.0,,History,18.3,,92.1,93.0,100.0,Yes
+Student_0181,18.0,Female,English,12.6,Solo Study,79.3,81.0,73.0,Yes
+Student_0182,,,,2.2,Tutoring,,93.0,60.0,Yes
+Student_0183,18.0,Male,English,10.9,Group Study,77.3,96.0,78.0,Yes
+Student_0184,16.0,Female,Science,16.9,Group Study,,60.0,76.0,Yes
+Student_0185,17.0,,Science,2.4,,72.8,71.0,64.0,Yes
+Student_0186,14.0,Male,Art,13.2,Online Courses,,,75.0,Yes
+Student_0187,18.0,,Math,17.3,Online Courses,72.6,81.0,93.0,Yes
+Student_0188,14.0,Male,History,8.8,Group Study,93.0,100.0,87.0,Yes
+Student_0189,18.0,,,11.7,Online Courses,98.0,73.0,,
+Student_0190,15.0,Female,English,,,88.7,73.0,83.0,Yes
+Student_0191,14.0,Male,Science,1.0,Tutoring,93.2,68.0,58.0,No
+Student_0192,16.0,Male,,,Online Courses,65.6,95.0,98.0,Yes
+Student_0193,,,,12.6,Solo Study,64.8,75.0,68.0,
+Student_0194,,Female,Math,,Group Study,,93.0,98.0,
+Student_0195,17.0,Female,Art,19.2,Solo Study,,50.0,88.0,Yes
+Student_0196,14.0,Female,Art,10.2,Solo Study,87.7,61.0,75.0,Yes
+Student_0197,15.0,Male,History,,Tutoring,80.2,74.0,79.0,Yes
+Student_0198,18.0,Male,English,,Tutoring,,78.0,84.0,Yes
+Student_0199,15.0,Female,,,,93.7,,,Yes
+Student_0200,18.0,Male,Science,5.0,Tutoring,87.5,93.0,66.0,Yes
